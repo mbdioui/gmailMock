@@ -1,0 +1,41 @@
+[
+  {
+    "id": "12112312fc3a",
+    "threadId": "12112312fc3a",
+    "snippet": "Hey, just wanted to check in on the status of the project. Let me know if you need any help.",
+    "payload": {
+      "from": {
+        "name": "John Doe",
+        "email": "john.doe@example.com",
+        "profileImage": "https://i.pravatar.cc/250?img=5"
+      },
+      "to": [
+        {
+          "name": "alex Johnson",
+          "email": "alex.johnson@gmail.com"
+        }
+      ],
+      "cc": [
+        {
+          "name": "emily Smith",
+          "email": "emily.smith@example.com"
+        }
+      ],
+      "bcc": [],
+      "suject": "Project Status Update",
+      "date": "2024-09-01T14:45:00Z",
+      "attachments": [
+        {
+          "filename": "project_overview.pdf",
+          "mimeType": "application/pdf",
+          "size": 39812983,
+          "downloadUrl": "https://www.example.com/download/project_overview.pdf"
+        }
+      ]
+    },
+    "body": {
+      "text": "Hey Alex,\n\nJust wanted to check in on the status of the project. Let me know if you need any help.\n\nBest,\nJohn",
+      "html": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in ante elit. Donec vulputate, erat vitae scelerisque imperdiet, eros ante facilisis ligula, vitae finibus sem nisi vitae enim. Vestibulum interdum nisi sed elit cursus aliquet. Quisque tincidunt nec nulla sed commodo. Proin nec eros nunc. Sed commodo in purus pharetra varius. Duis metus risus, bibendum eget sapien a, auctor aliquam neque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam nec tellus maximus, ultrices eros in, hendrerit urna. Nullam condimentum ligula eget aliquam semper. Sed laoreet, lorem eget auctor laoreet, metus erat elementum risus, eu mattis erat neque ac lacus. Praesent id turpis eget nisi interdum aliquet at."
+    }
+  }
+]

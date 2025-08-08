@@ -1,0 +1,53 @@
+[
+  {
+    "id": "0001",
+    "threadId": "t0001",
+    "snippet": "Your account has beeen succussfully activated. You can now       log in and start using our services.",
+    "payload": {
+      "from": "SarahMiller",
+      "email": "john.doe@example.com",
+      "subject": "Upcoming Event : save the date",
+      "date": "2024-09-01T12:00:00Z",
+      "profileImage": "https://i.pravatar.cc/250?img=1"
+    },
+    "subject": "Project Status Update",
+    "timestamp": "1725271200",
+    "isImportant": "true",
+    "isPromotional": "true",
+    "hasAttachments": "true"
+  },
+  {
+    "id": "0002",
+    "threadId": "t0002",
+    "snippet": "Our systems will undergo scheduled maintenance tomorrow. Services may be temporarily unavailable.",
+    "payload": {
+      "from": "David Garcia",
+      "email": "jane.smith@example.com",
+      "subject": "Action Required: Please Review",
+      "date": "2024-09-02T12:00:00Z",
+      "profileImage": "https://i.pravatar.cc/250?img=2"
+    },
+    "subject": "Feedback Request: How Are We Doing?",
+    "timestamp": "1725281200",
+    "isImportant": "false",
+    "isPromotional": "false",
+    "hasAttachments": "false"
+  },
+  {
+    "id": "0003",
+    "threadId": "t0003",
+    "snippet": "Please find your invoice attache for the recent purchase.",
+    "payload": {
+      "from": "Emma Thomas",
+      "email": "michael.brown@example.com",
+      "subject": "Flash Sale: Limied Time Offer",
+      "date": "2024-09-02T12:00:00Z",
+      "profileImage": "https://i.pravatar.cc/250?img=2"
+    },
+    "subject": "Feedback Request: How Are We Doing?",
+    "timestamp": "1725291200",
+    "isImportant": "true",
+    "isPromotional": "true",
+    "hasAttachments": "false"
+  }
+]
