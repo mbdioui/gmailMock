@@ -21,3 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "coroutineLab"
 include(":app")
+include(":data")
+include(":domain")
+include(":core")
+include(":presentation")
